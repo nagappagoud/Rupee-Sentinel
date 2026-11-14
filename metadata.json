@@ -1,0 +1,5 @@
+{
+  "name": "RupeeSentinel",
+  "description": "Your Personal Financial Operating System — transaction categorization, 30-day cash flow forecasting, Isolation Forest anomaly detection, purchase simulation, and financial health scoring.",
+  "requestFramePermissions": []
+}
